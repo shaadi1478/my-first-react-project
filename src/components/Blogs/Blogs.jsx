@@ -10,7 +10,7 @@ const Blogs = () => {
     },[])
     return (
         <div>
-            <h2 className="text-4xl">Blog: </h2>
+            <h2 className="text-4xl">Blogs: </h2>
         </div>
     );
 };
